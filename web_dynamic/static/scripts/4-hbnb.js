@@ -49,11 +49,12 @@ $(document).ready(() => {
         }
       }
     });
-    $('#button').click(function () {
-      // perform a function
+  });
 
-      // new POST request to places_search should be made
-      // with the list of Amenities checked
+  // button click
+  $('#button').click(function () {
 
-    });
+    // new POST request to places_search should be made
+    // with the list of Amenities checked
+
   });
