@@ -21,7 +21,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## Prerequiste Installations
 
-### Versin 4
+### Version 4
 
 * Import JQuery: `<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>` within the body, head, or footer of any html file that will use it for api requests. Preferably, after all non-script content.
 
@@ -43,6 +43,9 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 * * * It’s important in your project, to use the AirBnB API with the port `5001`
 
+* **import data from the mysql**
+
+* * `cat 100-dump.sql | mysql -u root -p` this way, your airbnb will be populated.
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
